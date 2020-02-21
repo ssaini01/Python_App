@@ -38,8 +38,8 @@
 ##########################################################################################
 # Connected App information: fill it in by creating a connected app
 # https://help.salesforce.com/articleView?id=connected_app_create.htm&language=en_US&type=0
-CLIENT_ID = 'FILL_ME_IN'
-CLIENT_SECRET = 'FILL_ME_IN'
+CLIENT_ID = '3MVG9LBJLApeX_PB_54RwhhNdYoju787KxDVf_s86iWZArDpS5btlX7nVECJJDi1gkXO67lkqV9QeUWJ8kgvW'
+CLIENT_SECRET = '71FBACDC6EEFBCFD8C394A14D557D3DEC330766F29508AFF392D19775CD3DEAD'
 ##########################################################################################
 
 API_VERSION = 'v47.0';
